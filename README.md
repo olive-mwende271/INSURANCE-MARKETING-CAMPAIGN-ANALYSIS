@@ -6,7 +6,8 @@ This project provides a data-driven analysis of insurance marketing performance.
 
 ## 📊 Visual Dashboard
 Below is the comprehensive analysis grid covering numerical distributions, categorical counts, and bivariate relationships.
-![EDA Dashboard](outputs/eda_3x5_layout.png)
+
+[![EDA Dashboard](outputs/eda_3x5_layout.png)](https://github.com/olive-mwende271/INSURANCE-MARKETING-CAMPAIGN-ANALYSIS/blob/main/eda_grid_layout.png)
 
 ## 💡 Executive Summary & Key Findings
 * **Channel Performance:** The **Agent** sales channel is the primary driver of successful conversions, suggesting that personal consultation is key for this product line.
